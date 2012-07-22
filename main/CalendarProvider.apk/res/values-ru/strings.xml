@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Память календаря</string>
+    <string name="upgrade_msg">Обновление БД календаря.</string>
+    <string name="calendar_default_name">По умолчанию</string>
+    <string name="calendar_info">Сведения о календаре</string>
+    <string name="calendar_info_error">Ошибка</string>
+    <string name="calendar_info_no_calendars">Нет календарей</string>
+    <string name="calendar_info_events">Мероприятий: %1$d</string>
+    <string name="calendar_info_events_dirty">Мероприятий: %1$d; не сохранено: %2$d</string>
+    <string name="provider_label">Календарь</string>
+    <string name="debug_tool_delete_button">Удалить</string>
+    <string name="debug_tool_start_button">Пуск</string>
+    <string name="debug_tool_message">You are about to 1) make a copy of your calendar database to the sd card/usb storage which is readable by any app and 2) email it. Remember to delete it as soon as you have successfully copied it off the device or the email is received.</string>
+    <string name="debug_tool_email_sender_picker">Select a program to send your file</string>
+    <string name="debug_tool_email_subject">Calendar Db attached</string>
+    <string name="debug_tool_email_body">Attached is my calendar database with all my appointments and personal information. Please handle with care.</string>
+</resources>
